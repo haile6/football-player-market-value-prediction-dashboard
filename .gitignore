@@ -1,0 +1,13 @@
+# Ignore dataset
+*.csv
+data/
+
+# Python cache
+__pycache__/
+
+# Environment folders
+env/
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
